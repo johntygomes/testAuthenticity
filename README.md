@@ -1,2 +1,0 @@
-# testAuthenticity
-hello
